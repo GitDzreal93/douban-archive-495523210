@@ -1,16 +1,16 @@
 {
   "version": 3,
-  "siteAssetVersion": "4.5.1",
+  "siteAssetVersion": "4.5.2",
   "siteTitle": "豆瓣小组存档",
-  "lastUpdated": "2026-07-30T12:56:29.888Z",
-  "postCount": 1,
+  "lastUpdated": "2026-07-30T15:56:03.240Z",
+  "postCount": 2,
   "posts": [
     {
-      "id": "495523210",
-      "title": "九门首日拉新登顶 曾舜晞粉丝38888座云包场秒空一小时拉新增幅112.94",
-      "folder": "495523210_九门首日拉新登顶 曾舜晞粉丝38888座云包场秒空一小时拉新增幅112.94",
-      "totalPages": 1,
-      "completedPages": 1,
+      "id": "306605528",
+      "title": "大陈实话实说楼☝️真实即自由☝️",
+      "folder": "306605528_大陈实话实说楼☝️真实即自由☝️",
+      "totalPages": 245,
+      "completedPages": 245,
       "status": "complete",
       "archivedAt": "2026.07.30",
       "postedAt": "",
@@ -18,11 +18,30 @@
       "groupUrl": "",
       "authorName": "",
       "replyCount": null,
-      "imageCount": 8,
-      "searchableReplyCount": 94,
-      "baseUrl": "https://www.douban.com/group/topic/495523210/",
-      "entryUrl": "posts/495523210_九门首日拉新登顶 曾舜晞粉丝38888座云包场秒空一小时拉新增幅112.94/page-001.html",
-      "searchUrl": "posts/495523210_九门首日拉新登顶 曾舜晞粉丝38888座云包场秒空一小时拉新增幅112.94/search.json"
+      "imageCount": 0,
+      "searchableReplyCount": 0,
+      "baseUrl": "https://www.douban.com/group/topic/306605528/",
+      "entryUrl": "posts/306605528_大陈实话实说楼☝️真实即自由☝️/page-001.html",
+      "searchUrl": "posts/306605528_大陈实话实说楼☝️真实即自由☝️/search.json"
+    },
+    {
+      "id": "305664021",
+      "title": "已爆改实话实说聊天楼.大陈请上桌版（请专注自家素人大陈🈲🍑无关人员）",
+      "folder": "305664021_已爆改实话实说聊天楼.大陈请上桌版（请专注自家素人大陈🈲🍑无关人员）",
+      "totalPages": 502,
+      "completedPages": 502,
+      "status": "complete",
+      "archivedAt": "2026.07.30",
+      "postedAt": "",
+      "groupName": "",
+      "groupUrl": "",
+      "authorName": "",
+      "replyCount": null,
+      "imageCount": 0,
+      "searchableReplyCount": 0,
+      "baseUrl": "https://www.douban.com/group/topic/305664021/",
+      "entryUrl": "posts/305664021_已爆改实话实说聊天楼.大陈请上桌版（请专注自家素人大陈🈲🍑无关人员）/page-001.html",
+      "searchUrl": "posts/305664021_已爆改实话实说聊天楼.大陈请上桌版（请专注自家素人大陈🈲🍑无关人员）/search.json"
     }
   ]
 }
